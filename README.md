@@ -112,7 +112,7 @@ Portable Diagnostics → Cloud → Doctor Portal
 ### *Clone the Repository*
 
 
-git clone [https://github.com/yourusername/healthcare-platform.git](https://github.com/Pratham00007/hackforGlobal.git)
+git clone https://github.com/Pratham00007/hackforGlobal.git
 cd healthcare-platform
 
 
